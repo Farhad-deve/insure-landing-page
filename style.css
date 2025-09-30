@@ -225,6 +225,10 @@ nav li:last-child {
     border: 2px solid var(--blue950);
 }
 
+header {
+    overflow: hidden;
+}
+
 .n-line-des::before {
     content: '';
     width: 9rem;
